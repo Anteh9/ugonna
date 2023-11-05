@@ -1,0 +1,8 @@
+body{
+    background-color:rgba(5, 3, 20, 0.959);
+    color:darkblue;
+    background-image: url("third.jpeg");
+}
+.header h1 {
+    text-align: center;
+}

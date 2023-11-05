@@ -1,0 +1,12 @@
+
+body{
+background-color:rgba(5, 3, 20, 0.959);
+color: whitesmoke;
+background-image: url("final.jpeg");
+}
+.header h1 {
+    text-align: center;
+}
+.p{
+    margin-left: 40px;
+}
